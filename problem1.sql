@@ -1,1 +1,1 @@
-write your sql statement in a single line in the problem1.sql file.
+insert into song(title, artist) values ('Let it be', 'Beatles'); insert into song(title, artist) values('Hotel California', 'Eagles'); insert into song(title, artist) values('Kashmir','Led Zeppelin');
